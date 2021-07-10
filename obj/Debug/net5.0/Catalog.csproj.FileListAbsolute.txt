@@ -26,3 +26,15 @@
 /Users/nattatorn.yuch/workspace/Catalog/obj/Debug/net5.0/ref/Catalog.dll
 /Users/nattatorn.yuch/workspace/Catalog/obj/Debug/net5.0/Catalog.pdb
 /Users/nattatorn.yuch/workspace/Catalog/obj/Debug/net5.0/Catalog.genruntimeconfig.cache
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/DnsClient.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/SharpCompress.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/nattatorn.yuch/workspace/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
