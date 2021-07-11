@@ -124,3 +124,11 @@ mongodb-service   ClusterIP      None             <none>           27017/TCP    
 
 curl 10.102.211.121/health/live
 ```
+
+- unit test
+
+```sh
+$ dotnet new xunit -n Catalog.UnitTests
+$ dotnet add package FluentAssertions
+$ dotnet test
+```
